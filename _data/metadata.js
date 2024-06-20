@@ -1,7 +1,7 @@
 let data = {
 	username: "HarlanTheFox", // No leading @ here
-	homeLabel: "Studio Yip!",
-	homeUrl: "https://www.studioyip.com/",
+	homeLabel: "Back to cascading.space",
+	homeUrl: "https://www.cascading.space/",
 };
 
 data.avatar = `img/harlan-icon-200.png`;
